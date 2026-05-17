@@ -10,6 +10,7 @@
 - 📫 How to reach me: **long89kev@gmail.com**
 
 ### 🏆 Awards & Honors
+- **Vin Datathon 2026:** Top 10% 
 - **LotusHacks 2026:** Top 20 Finalist (x HackHarvard x GenAI Fund Vietnam)
 - **RMIT NEO LEAGUE 2025:** Top 4 Finalist (Prompt The Future)
 - **National Youth Informatics Contest:** Top 11 (Southern Region)
