@@ -1,5 +1,5 @@
 # Hi 👋, I'm Nguyen Tam Long
-**AI Engineer Intern | Computer Engineering @ HCMUT**
+**AI Engineer Intern Viettel Solutions | Computer Engineering @ HCMUT**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=long89kev&label=Profile%20views&color=0e75b6&style=flat" alt="long89kev" /> </p>
 
