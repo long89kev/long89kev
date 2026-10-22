@@ -19,7 +19,7 @@ I build applied AI systems end to end: LLM and RAG pipelines, computer vision fo
 |---|---|---|
 | [LoRa-Energy-Aware-UAVs](https://github.com/long89kev/LoRa-Energy-Aware-UAVs) | Energy-aware heterogeneous LoRA federated fine-tuning for UAV-assisted remote sensing | PyTorch, ViT |
 | [SmartClassroom](https://github.com/long89kev/SmartClassroom) | Smart classroom AIoT system with YOLO detection | YOLO, FastAPI, React, Docker |
-| Enterprise GenAI & RAG Pipeline | Custom LLM routing to optimize response quality | LangChain, FastAPI |
+| [Enterprise GenAI & RAG Pipeline](https://github.com/long89kev/vnpt-ai) | Custom LLM routing to optimize response quality | LangChain, FastAPI |
 | [AIC_2025](https://github.com/long89kev/AIC_2025) | Video retrieval application for AI Challenge 2025 | Python |
 
 ## Awards
