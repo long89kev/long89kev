@@ -32,5 +32,5 @@ I build applied AI systems end to end: LLM and RAG pipelines, computer vision fo
 - **Infra & Embedded** — Docker, Linux, Git, Arduino
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=long89kev&theme=github" alt="GitHub stats" />
+  <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="GitHub stats" />
 </p>
