@@ -22,16 +22,6 @@ I build applied AI systems end to end: LLM and RAG pipelines, computer vision fo
 | [Enterprise GenAI & RAG Pipeline](https://github.com/long89kev/vnpt-ai) | Custom LLM routing to optimize response quality | LangChain, FastAPI |
 | [AIC_2025](https://github.com/long89kev/AIC_2025) | Video retrieval application for AI Challenge 2025 | Python |
 
-## Awards
-
-| Year | Competition | Result |
-|---|---|---|
-| 2026 | Vin Datathon | Top 10% |
-| 2026 | LotusHacks (x HackHarvard x GenAI Fund Vietnam) | Top 20 Finalist, 200+ teams |
-| 2025 | RMIT Neo League — Prompt The Future | Top 4 Finalist |
-| — | National Youth Informatics Contest | Top 11, Southern Region |
-| — | Traditional Olympiad 30/4 — Informatics | Bronze Medal |
-
 ## Tech Stack
 
 - **Languages** — Python, C, C++, JavaScript
