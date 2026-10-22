@@ -17,6 +17,7 @@ I build applied AI systems end to end: LLM and RAG pipelines, computer vision fo
 
 | Project | Description | Stack |
 |---|---|---|
+| [Covenant](https://github.com/long89kev/Covenant) | AI purchasing agents negotiate B2B orders while payment authority stays split across people | TypeScript, LLM agents |
 | [LoRa-Energy-Aware-UAVs](https://github.com/long89kev/LoRa-Energy-Aware-UAVs) | Energy-aware heterogeneous LoRA federated fine-tuning for UAV-assisted remote sensing | PyTorch, ViT |
 | [SmartClassroom](https://github.com/long89kev/SmartClassroom) | Smart classroom AIoT system with YOLO detection | YOLO, FastAPI, React, Docker |
 | [Enterprise GenAI & RAG Pipeline](https://github.com/long89kev/vnpt-ai) | Custom LLM routing to optimize response quality | LangChain, FastAPI |
